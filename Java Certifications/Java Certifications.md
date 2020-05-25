@@ -1,7 +1,7 @@
 ## Java Certifications Categories :
 
-| Certification Name      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
+| Certification Name      | Description | Test Text     |Links|
+| :---        |    :----:   |         :----:   |          ---: | 
 |	Java Foundations Certified Junior Associate	|	1Z0-811	|	Java Foundations	|
 |	Oracle Certified Associate, Java SE 8 Programmer	|	1Z0-808	|	Java SE 8 Programmer I	|
 |	Oracle Certified Professional, Java SE 8 Programmer	|	1Z0-809	|	Java SE 8 Programmer II	|
