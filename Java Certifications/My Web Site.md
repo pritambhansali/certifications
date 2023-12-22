@@ -1,3 +1,3 @@
 ### [My web site Links] 
 
-(My Portfolio)[https://pritambhansali.wixsite.com/portfolio/]
+[My Portfolio](https://pritambhansali.wixsite.com/portfolio/)
